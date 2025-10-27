@@ -198,9 +198,9 @@ help = [
 
 banner = [
   "<br>",
-  "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-",
-  "| A R Y A V A R D H A N  S I N G H |",
-  "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-",
+  "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+",
+  "|  A R Y A V A R D H A N   S I N G H  |",
+  "+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+",
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
   "<span class=\"color2\">NEW: Try</span> <span class=\"command\">'set-theme hacker'</span> <span class=\"color2\">or</span> <span class=\"command\">'skills-matrix'</span>",
   "<span class=\"color2\">Keyboard shortcuts:</span> <span class=\"command\">Ctrl+T</span> <span class=\"color2\">(themes),</span> <span class=\"command\">Tab</span> <span class=\"color2\">(autocomplete)</span>",
