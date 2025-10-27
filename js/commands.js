@@ -205,5 +205,5 @@ banner = [
   "<span class=\"color2\">NEW: Try</span> <span class=\"command\">'set-theme hacker'</span> <span class=\"color2\">or</span> <span class=\"command\">'skills-matrix'</span>",
   "<span class=\"color2\">Keyboard shortcuts:</span> <span class=\"command\">Ctrl+T</span> <span class=\"color2\">(themes),</span> <span class=\"command\">Tab</span> <span class=\"color2\">(autocomplete)</span>",
   "<span class=\"color2\">Note: Don't think about</span> <span class=\"command\">'SUDO'</span><span class=\"color2\">.</span>",
-  "<span class=\"color2\>Risk hai toh ishq hai!</span>"
+  "<span class=\"color2\">Risk hai toh ishq hai!</span>"
 ];
