@@ -5,7 +5,7 @@ var linkedin = "https://www.linkedin.com/in/aryavardhan-singh";
 var instagram = "https://www.instagram.com/r1zz3d";
 var github = "https://github.com/arya16z";
 var email = 'aryavas2004@gmail.com';
-var resume = 'https://github.com/arya16z/Portfolio/blob/main/Aryavardhan_Singh_Resume.pdf';
+var resume = 'https://drive.google.com/file/d/1lopW4FmFwSzgV-i0Vy9EAqXmfhZ-xu-p/view?usp=sharing';
 
 
 // This content is about "WHOIS"
