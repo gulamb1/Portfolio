@@ -1,9 +1,9 @@
 // These are the variable for the direct links
 var youtube = "https://www.youtube.com/@aryasaxx";
-var twitter = "https://www.twitter.com/arya16z";
+var twitter = "https://www.twitter.com/gulamb1";
 var linkedin = "https://www.linkedin.com/in/aryavardhan-singh";
 var instagram = "https://www.instagram.com/r1zz3d";
-var github = "https://github.com/arya16z";
+var github = "https://github.com/gulamb1";
 var email = 'aryavas2004@gmail.com';
 var resume = 'https://drive.google.com/file/d/1lopW4FmFwSzgV-i0Vy9EAqXmfhZ-xu-p/view?usp=sharing';
 
@@ -47,10 +47,10 @@ whois = [
 social = [
   "<br>",
   'youtube        <a href="' + youtube + '" target="_blank">youtube/aryasaxx' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/arya16z' + '</a>',
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/gulamb1' + '</a>',
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/aryavardhan-singh' + "</a>",
   'instagram      <a href="' + instagram + '" target="_blank">instagram/r1zz3d' + '</a>',
-  'github         <a href="' + github + '" target="_blank">github/arya16z' + "</a>",
+  'github         <a href="' + github + '" target="_blank">github/gulamb1' + "</a>",
   "<br>"
 ];
 
